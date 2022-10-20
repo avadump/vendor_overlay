@@ -615,4 +615,111 @@
   <alias name="nothingdot-semi-bold" to="nothingdot" weight="600" />
   <alias name="nothingdot-bold" to="nothingdot" weight="700" />
 
+    <!-- Oppo Sans -->
+  <family customizationType="new-named-family" name="opposans">
+    <font weight="100" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="250" />
+    </font>
+    <font weight="200" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="350" />
+    </font>
+    <font weight="300" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="450" />
+    </font>
+    <font weight="400" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="550" />
+    </font>
+    <font weight="500" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="620" />
+    </font>
+    <font weight="600" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="690" />
+    </font>
+    <font weight="700" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="760" />
+    </font>
+    <font weight="800" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="830" />
+    </font>
+    <font weight="900" style="normal">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="0" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="900" />
+    </font>
+    <font weight="100" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="250" />
+    </font>
+    <font weight="200" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="350" />
+    </font>
+    <font weight="300" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="450" />
+    </font>
+    <font weight="400" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="550" />
+    </font>
+    <font weight="500" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="620" />
+    </font>
+    <font weight="600" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="690" />
+    </font>
+    <font weight="700" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="760" />
+    </font>
+    <font weight="800" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="830" />
+    </font>
+    <font weight="900" style="italic">OppoSans-En-Regular.ttf
+      <axis tag="ital" stylevalue="1" />
+      <axis tag="wdth" stylevalue="100" />
+      <axis tag="wght" stylevalue="900" />
+    </font>
+  </family>
+  <alias name="opposans-medium" to="opposans" weight="500" />
+
+  <!-- Fluid sans -->
+  <family customizationType="new-named-family" name="fluid-sans">
+        <font weight="400" style="normal">FluidSans-Regular.ttf</font>
+        <font weight="400" style="italic">FluidSans-Italic.ttf</font>
+        <font weight="500" style="normal">FluidSans-Medium.ttf</font>
+        <font weight="500" style="italic">FluidSans-MediumItalic.ttf</font>
+        <font weight="700" style="normal">FluidSans-Bold.ttf</font>
+        <font weight="700" style="italic">FluidSans-BoldItalic.ttf</font>
+  </family>
+  <alias name="fluid-sans-regular" to="fluid-sans" weight="400" />
+  <alias name="fluid-sans-medium" to="fluid-sans" weight="500" />
+  <alias name="fluid-sans-bold" to="fluid-sans" weight="700" />
 </fonts-modification>
