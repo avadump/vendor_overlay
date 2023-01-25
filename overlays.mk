@@ -63,6 +63,7 @@ PRODUCT_PACKAGES += \
     IconShapeCylindricalOverlay \
     IconShapeStretchedOverlay \
     IconShapePebbleOverlay \
+    IconShapeRiceBallsOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
