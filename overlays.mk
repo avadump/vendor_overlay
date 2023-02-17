@@ -166,6 +166,13 @@ PRODUCT_PACKAGES += \
     BrightnessSliderThinOverlay \
     BrightnessSliderTranslucentOverlay
 
+# QS Panel
+PRODUCT_PACKAGES += \
+    QSRoundedRectangle \
+    QSOutline \
+    QSTwoToneAccent \
+    QSShaded
+
 # Navbar
 PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
