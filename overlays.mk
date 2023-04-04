@@ -75,9 +75,12 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay \
     UnmonetThemeAndroidOverlay \
     UnmonetThemeSettingsOverlay \
+    UnmonetThemeSystemUIOverlay \
+    BlackThemeAndroidOverlay \
+    BlackThemeSettingsOverlay \
+    BlackThemeSystemUIOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
