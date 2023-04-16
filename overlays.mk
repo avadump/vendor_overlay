@@ -111,49 +111,41 @@ PRODUCT_PACKAGES += \
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
+    AcherusSubsSignalGOverlay \
+    AcherusSubsSignalTOverlay \
+    BarsSignalOverlay \
+    GradiconSignalOverlay \
+    InsideSignalOverlay \
+    IosSignalOverlay \
+    LivSignalOverlay \
+    NothingDotSignalOverlay \
+    OdineeSignalOverlay \
+    RoundSignalOverlay \
     StrokeSignalOverlay \
     SneakySignalOverlay \
     XperiaSignalOverlay \
-    ZigZagSignalOverlay \
+    WannaSignalOverlay \
     WavySignalOverlay \
-    RoundSignalOverlay \
-    InsideSignalOverlay \
-    BarsSignalOverlay
+    WindowsSignalOverlay \
+    ZigZagSignalOverlay
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
+    AcherusSubsWifiGOverlay \
+    AcherusSubsWifiTOverlay \
+    BarsWiFiOverlay \
+    DoraWiFiOverlay \
+    GradiconWiFiOverlay \
+    InsideWiFiOverlay \
+    LivWifiOverlay \
+    NothingDotWiFiOverlay \
+    RoundWiFiOverlay \
     StrokeWiFiOverlay \
     SneakyWiFiOverlay \
     XperiaWiFiOverlay \
-    ZigZagWiFiOverlay \
     WavyWiFiOverlay \
-    RoundWiFiOverlay \
-    InsideWiFiOverlay \
-    BarsWiFiOverlay \
     WeedWiFiOverlay \
-    DoraWiFiOverlay \
-    BarsWiFiOverlay \
-    AquariumSignalOverlay \
-    ButterflySignalOverlay \
-    DaunSignalOverlay \
-    DecSignalOverlay \
-    DeepSignalOverlay \
-    EqualSignalOverlay \
-    FanSignalOverlay \
-    HuaweiSignalOverlay \
-    RelSignalOverlay \
-    ScrollSignalOverlay \
-    SeaSignalOverlay \
-    StackSignalOverlay \
-    WannuiSignalOverlay \
-    WindowsSignalOverlay \
-    WingSignalOverlay \
-    CircleSignalOverlay \
-    IosSignalOverlay \
-    MiniSignalOverlay \
-    OdinSignalOverlay \
-    PillsSignalOverlay \
-    RomanSignalOverlay
+    ZigZagWiFiOverlay
 
 # Navbar
 #PRODUCT_PACKAGES += \
