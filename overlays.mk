@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
+    AcherusSignalOverlay \
     AcherusSubsSignalGOverlay \
     AcherusSubsSignalTOverlay \
     BarsSignalOverlay \
@@ -120,6 +121,7 @@ PRODUCT_PACKAGES += \
     LivSignalOverlay \
     NothingDotSignalOverlay \
     OdineeSignalOverlay \
+    PUISignalOverlay \
     RoundSignalOverlay \
     StrokeSignalOverlay \
     SneakySignalOverlay \
@@ -131,6 +133,7 @@ PRODUCT_PACKAGES += \
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
+    AcherusWiFiOverlay \
     AcherusSubsWifiGOverlay \
     AcherusSubsWifiTOverlay \
     BarsWiFiOverlay \
@@ -139,6 +142,7 @@ PRODUCT_PACKAGES += \
     InsideWiFiOverlay \
     LivWifiOverlay \
     NothingDotWiFiOverlay \
+    PavlovaWiFiOverlay \
     RoundWiFiOverlay \
     StrokeWiFiOverlay \
     SneakyWiFiOverlay \
