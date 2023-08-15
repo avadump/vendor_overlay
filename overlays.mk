@@ -151,6 +151,22 @@ PRODUCT_PACKAGES += \
     WeedWiFiOverlay \
     ZigZagWiFiOverlay
 
+# Data icons
+PRODUCT_PACKAGES += \
+    AuroraDataOverlay \
+    FaintUIDataOverlay \
+    GradiconDataOverlay \
+    LornDataOverlay \
+    PlumpyDataOverlay
+
+# Icon Data
+PRODUCT_PACKAGES += \
+    IconDataFive \
+    IconDataFour \
+    IconDataOne \
+    IconDataThree \
+    IconDataTwo
+
 # Brightness slider styles
 PRODUCT_PACKAGES += \
     BrightnessSliderAcunOverlay \
