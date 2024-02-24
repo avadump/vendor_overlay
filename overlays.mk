@@ -184,10 +184,16 @@ PRODUCT_PACKAGES += \
 
 # QS Panel
 PRODUCT_PACKAGES += \
-    QSRoundedRectangle \
+    A11QSUI \
     QSOutline \
     QSTwoToneAccent \
-    QSShaded
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
 
 # Navbar
 PRODUCT_PACKAGES += \
